@@ -7,7 +7,7 @@
 
 # 📈 Usage
  - Open ```main.py```
- - 
+
 # 📷 Preview
 ![image](https://user-images.githubusercontent.com/80674770/144194847-b79ba5ad-1873-4bbf-bebe-741a573e2bec.gif)
 
