@@ -1,4 +1,4 @@
-<h1 align="center"> 😈 Discord SPAM</h1>
+<h1 align="center"> 😈 Discord RAGE</h1>
 <p align="center">Python tool that allows you to automatically spam messages in Discord</p>
 
 # 🏹 Setup
