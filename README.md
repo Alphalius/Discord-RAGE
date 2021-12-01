@@ -4,6 +4,7 @@
 # 🏹 Setup
  - Make sure you have [Python](https://www.python.org/downloads) installed and PIP is added to PATH!
  - Open the ```installer.bat``` file and wait until it's finished.
+- [x] (for checked checkbox)
 
 # 📈 Usage
  - Open ```main.py```
