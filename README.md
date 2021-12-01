@@ -8,14 +8,14 @@
 # 📈 Usage
  - Open ```main.py```
  - 
-# Preview
+# 📷 Preview
 ![image](https://user-images.githubusercontent.com/80674770/144194847-b79ba5ad-1873-4bbf-bebe-741a573e2bec.gif)
 
-# Author
+# 👤 Author
 - [**Alphalius**](https://github.com/Alphalius)
 
-# Support
+# 🔨 Support
 Join this server if you need help with anything: [discord.gg/VW4Yty2Bz6](https://discord.gg/VW4Yty2Bz6)
 
-# Credits
+# 🔗 Credits
 Give credits to Alphalius if you use or fork this code.
