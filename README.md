@@ -9,7 +9,7 @@
  - Open ```main.py```
  - 
 # Preview
-![second](https://user-images.githubusercontent.com/80674770/142757936-abbb5c9d-93bb-439a-beb6-862b2e89ea54.gif)
+![image](https://user-images.githubusercontent.com/80674770/144194847-b79ba5ad-1873-4bbf-bebe-741a573e2bec.gif)
 
 # Author
 - [**Alphalius**](https://github.com/Alphalius)
