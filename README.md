@@ -10,9 +10,9 @@
  - Star this repository if you like it ⭐
 
 # ☑ Features
-- [x]  Fast Spammer
+- [x]  Fast & Unlimited Spam
 - [x]  Bypass Discord Anti-Spam
-- [ ]  Spam Multiple Messages
+- [ ]  Spam Different Text Messages
 
 # 📷 Preview
 ![image](https://user-images.githubusercontent.com/80674770/144217277-a8dfd2c9-400a-4e47-a2b1-aced859ffd2b.gif)
