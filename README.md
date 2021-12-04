@@ -7,7 +7,7 @@
 
 # 📈 Usage
  - Open ```main.py```
- - Star this repository if you like it ⭐
+ - Star [this repository](https://github.com/Alphalius/Discord-RAGE) if you like it ⭐
 
 # ☑ Features
 - [x]  Fast & Unlimited Spam
