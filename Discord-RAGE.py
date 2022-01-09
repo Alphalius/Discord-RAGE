@@ -3,6 +3,7 @@ import os
 import pyautogui
 import webbrowser
 import time
+from pystyle import Colors, Colorate, Center
 
 # Changes the window title
 os.system("title Discord RAGE")
@@ -26,9 +27,9 @@ image = ("""
 print(image)
 
 # Asks the user for the inputs
-message = input("Enter the message to spam: ")
-repeats = int(input("Enter the amount of times it needs to be send: "))
-delay = int(input("Enter the delay amount in MS: "))
+int(input(Center.XCenter("Enter the message to spam: ")))
+int(input(Center.XCenter("Enter the amount of times it needs to be send: ")))
+int(input(Center.XCenter("Enter the delay amount in MS: ")))
 
 # Asks the user if Discord is loaded
 isLoaded = input("Press enter if Discord is loaded")
