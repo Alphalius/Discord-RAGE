@@ -4,7 +4,7 @@
   > Open the ```installer.bat``` file and wait until it's finished.
 - **USAGE:**
   > Open ```main.py```
-  > Star [this repository](https://github.com/Alphalius/Discord-RAGE) if you like it ⭐
+  > and star [this repository](https://github.com/Alphalius/Discord-RAGE) if you like it
 - **FEATURES:**
    - [x]  Fast & Unlimited Spam
    - [x]  Bypass Discord Anti-Spam
